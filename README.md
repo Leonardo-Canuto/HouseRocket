@@ -1,4 +1,4 @@
-# HouseRocket
+#Projeto em Python com base de dados de uma imobiliária americana - HouseRocket. Selecionamos os principais imoveis a se comprar e apresentamos a Lucratividade para cada imóvel.
 House Rocket Company
 Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog Seja um Data Scientist, para mais informações clique no link a seguir.
 
